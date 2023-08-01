@@ -61,7 +61,7 @@ a {
 }
 @font-face {
   font-family: "Poetsen";
-  src: local("Poetsen Regular"), local("Poetsen-Regular"), url("./fonts/PoetsenOne-Regular.woff2") format("woff2"), url("./fonts/PoetsenOne-Regular.woff") format("woff"), url("./fonts/PoetsenOne-Regular.ttf") format("truetype");
+  src: url("./fonts/PoetsenOne-Regular.woff2") format("woff2"), url("./fonts/PoetsenOne-Regular.woff") format("woff"), url("./fonts/PoetsenOne-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
