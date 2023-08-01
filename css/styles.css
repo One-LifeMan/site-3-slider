@@ -55,13 +55,13 @@ a {
 
 @font-face {
   font-family: "Pusab";
-  src: url("./fonts/Pusab.woff2") format("woff2"), url("./fonts/Pusab.woff") format("woff"), url("./fonts/Pusab.ttf") format("truetype");
+  src: url("./../fonts/Pusab.woff2") format("woff2"), url("./../fonts/Pusab.woff") format("woff"), url("./../fonts/Pusab.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Poetsen";
-  src: url("./fonts/PoetsenOne-Regular.woff2") format("woff2"), url("./fonts/PoetsenOne-Regular.woff") format("woff"), url("./fonts/PoetsenOne-Regular.ttf") format("truetype");
+  src: url("./../fonts/PoetsenOne-Regular.woff2") format("woff2"), url("./../fonts/PoetsenOne-Regular.woff") format("woff"), url("./../fonts/PoetsenOne-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
